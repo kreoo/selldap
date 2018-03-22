@@ -32,6 +32,8 @@ bower_components
 
 # Dependency directories
 node_modules/
+build/
+build_webpack/
 jspm_packages/
 
 # Typescript v1 declaration files
